@@ -1,4 +1,4 @@
-package step_definitions;
+package entities;
 
 public class RequestBody {
 }
